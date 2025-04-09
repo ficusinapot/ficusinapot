@@ -19,12 +19,6 @@
 
 <h1 align="center">Hello there</h1>
 
-###
-
-<h3 align="left">🛠 Things i don't shame with</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
